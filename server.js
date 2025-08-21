@@ -109,7 +109,7 @@ connectDB();
 const allowedOrigins = [
   // 'https://digital-notes-application.vercel.app', // your frontend on Vercel
   'http://localhost:5173', // Vite dev
-      'https://notes-digitalnotes.onrender.com'
+      'https://notes-digitalnotes.onrender.com',
   'http://localhost:3000'  // CRA dev
 ];
 
