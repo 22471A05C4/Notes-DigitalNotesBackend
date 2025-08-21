@@ -13,6 +13,7 @@
 // const allowedOrigins = [
 //   'https://digital-notes-application.vercel.app',
 //   'http://localhost:5173',
+      'https://notes-digitalnotes.onrender.com',
 //   'http://localhost:5000'
 // ];
 
