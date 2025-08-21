@@ -107,7 +107,7 @@ connectDB();
 
 // ✅ Allowed origins (frontend URLs + dev localhost)
 const allowedOrigins = [
-  'https://digital-notes-application.vercel.app', // your frontend on Vercel
+  // 'https://digital-notes-application.vercel.app', // your frontend on Vercel
   'http://localhost:5173', // Vite dev
       'https://notes-digitalnotes.onrender.com'
   'http://localhost:3000'  // CRA dev
